@@ -3,3 +3,4 @@ WORKDIR /app
 COPY . .
 RUN chmod +x ./mvnw
 RUN ./mvnw package
+CMD ["java","-jar","./target/document.jar"]
