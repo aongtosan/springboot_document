@@ -10,7 +10,7 @@ public class DocumentController {
     private final Logger logger = LoggerFactory.getLogger(DocumentController.class);
     @GetMapping(path = "/{documentName}", produces = "application/json")
     public String findDocument(@PathVariable(required=false,name="documentName") String documentName){
-        logger.info("/document/"+documentName);
+        logger.info("METHOD:GET endpoint=> /document/"+documentName);
         return "Here your document id : "+documentName;
     }
 }
