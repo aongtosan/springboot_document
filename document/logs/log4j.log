@@ -1,0 +1,55 @@
+[INFO ] 2023-09-08 14:41:19.832 [main] DocumentApplication - Starting DocumentApplication using Java 17.0.7 with PID 13552 (D:\SCM\java_spring_practice\document\document\target\classes started by aongt in D:\SCM\java_spring_practice\document\document)
+[INFO ] 2023-09-08 14:41:19.844 [main] DocumentApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-08 14:41:20.806 [main] TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-09-08 14:41:20.815 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-08 14:41:20.817 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2023-09-08 14:41:20.818 [main] StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+[INFO ] 2023-09-08 14:41:20.909 [main] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-09-08 14:41:20.910 [main] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1018 ms
+[INFO ] 2023-09-08 14:41:21.274 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-08 14:41:21.301 [main] TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-09-08 14:41:21.321 [main] DocumentApplication - Started DocumentApplication in 1.95 seconds (process running for 2.788)
+[INFO ] 2023-09-08 14:47:15.209 [main] DocumentApplication - Starting DocumentApplication using Java 17.0.7 with PID 15020 (D:\SCM\java_spring_practice\document\document\target\classes started by aongt in D:\SCM\java_spring_practice\document\document)
+[INFO ] 2023-09-08 14:47:15.220 [main] DocumentApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-08 14:47:16.216 [main] TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-09-08 14:47:16.228 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-08 14:47:16.231 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2023-09-08 14:47:16.232 [main] StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+[INFO ] 2023-09-08 14:47:16.336 [main] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-09-08 14:47:16.338 [main] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1043 ms
+[INFO ] 2023-09-08 14:47:16.688 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-08 14:47:16.713 [main] TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-09-08 14:47:16.732 [main] DocumentApplication - Started DocumentApplication in 1.947 seconds (process running for 2.935)
+[INFO ] 2023-09-12 14:33:28.966 [main] DocumentApplication - Starting DocumentApplication using Java 17.0.7 with PID 4356 (D:\SCM\java_spring_practice\document\document\target\classes started by aongt in D:\SCM\java_spring_practice\document\document)
+[INFO ] 2023-09-12 14:33:28.979 [main] DocumentApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-12 14:33:30.185 [main] TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-09-12 14:33:30.199 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-12 14:33:30.201 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2023-09-12 14:33:30.202 [main] StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+[INFO ] 2023-09-12 14:33:30.303 [main] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-09-12 14:33:30.305 [main] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1258 ms
+[INFO ] 2023-09-12 14:33:30.731 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-12 14:33:30.763 [main] TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-09-12 14:33:30.791 [main] DocumentApplication - Started DocumentApplication in 2.219 seconds (process running for 4.415)
+[INFO ] 2023-09-12 15:00:50.003 [main] DocumentApplication - Starting DocumentApplication using Java 17.0.7 with PID 5596 (D:\SCM\java_spring_practice\document\target\classes started by aongt in D:\SCM\java_spring_practice\document)
+[INFO ] 2023-09-12 15:00:50.020 [main] DocumentApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-12 15:00:51.300 [main] TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-09-12 15:00:51.318 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-12 15:00:51.323 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2023-09-12 15:00:51.324 [main] StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+[INFO ] 2023-09-12 15:00:51.441 [main] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-09-12 15:00:51.443 [main] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1340 ms
+[INFO ] 2023-09-12 15:00:51.929 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-12 15:00:51.962 [main] TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-09-12 15:00:51.999 [main] DocumentApplication - Started DocumentApplication in 2.583 seconds (process running for 3.651)
+[INFO ] 2023-09-12 15:05:29.631 [main] DocumentApplication - Starting DocumentApplication using Java 17.0.7 with PID 7588 (D:\SCM\java_spring_practice\document\target\classes started by aongt in D:\SCM\java_spring_practice\document)
+[INFO ] 2023-09-12 15:05:29.650 [main] DocumentApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-12 15:05:30.661 [main] TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-09-12 15:05:30.673 [main] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-12 15:05:30.677 [main] StandardService - Starting service [Tomcat]
+[INFO ] 2023-09-12 15:05:30.678 [main] StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+[INFO ] 2023-09-12 15:05:30.787 [main] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-09-12 15:05:30.789 [main] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1068 ms
+[INFO ] 2023-09-12 15:05:31.155 [main] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-12 15:05:31.183 [main] TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-09-12 15:05:31.208 [main] DocumentApplication - Started DocumentApplication in 2.011 seconds (process running for 3.116)
